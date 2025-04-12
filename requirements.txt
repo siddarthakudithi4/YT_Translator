@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+ipykernel
+google-cloud-texttospeech
+youtube-transcript-api
+agno
+gtts
+streamlit
+groq
+duckduckgo-search
+newspaper4k
+lxml_html_clean

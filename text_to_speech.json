@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "mineral-concord-455413-i6",
+    "private_key_id": "7cb0f4dfe5e592869a67cc6402bf6283a872c197",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDkFT/TSSZ7idx/\npLw4EhbYrOl7/ShfTNBL2N4IubZSzwUpAVzMl6iiUmenRjD2VIlGMydDTCFRdCs0\n1UPICESBYRKUdJ5KvzxTBhmJZ88kPPYkfTsdko0KiG7GNqkBSufWCDo4mPzEpe+o\nJleB6dizqbXtlChKe9SucqQyYzcmp97hcHJz3EijEAMVoc1WcRxE/ZTRtOgfgvvo\nI5Emnvu4PEyRupHAbLkwz4dezUm09l8GLNM18Z8QPSNzMb+JSNj8IyDkudcKk38H\nT2sDAbc72xeDpOyMwoSOW2KakoEQcmd5d4l8OUEKhrAiMEBbxdzwc4Z4w8zf778/\ntApAm5WbAgMBAAECggEAMIem73VylzmjrZMnK0UKEGtmOKgKhZCKB4Fq6O9e8Gq1\nHd742F1yl6sx++EO/PLKzKGIuqSBuFuf79tq0y6TKPY3JlhT7/KVytKS724joIHK\nG8R7phSvJu0VqN4rgqdmAd/5R16h9dOa1SvnVbCkl8HGAHmUQxjrDX0+G6yJqRML\nGnCVAVslPFJT0RJS5ZzlkO4uzL0tD+O7VqZthF9Ozsb00T0iKtd7zeIgx3lixpbj\nJ9iumYMVZUTdv44MbdvUK2EaSc3+jKd13D80xGyeMiSs6TpQd82mmy/n7VOwBTV6\nbFKkoa7L0zM+ymupmAsNveXa1Bh+xjD7JIwp5ql5PQKBgQD23RvLVBFr3/qLYMf9\nynKZ8VHfUswVLxBHMaMzPwuz7Hx0AXBHDUIkvc8PxQ34aJccOCIrMSODvF5jOtS3\nwskhs6UaSOZ4QNKSdJMaOeHLNQT2cIbtWwHmCvoe6cuLFQv3wVnfjwHRQL+2RXj5\nlng9ADZZS9Lov1Tgb8QHZSoW3wKBgQDshjRVbhawv4fD2aN/accZkTjhrUiRMj+q\nROKQNeVW8KnZykIPStBauTAFmgUJ3arbUqqWWrXWqQ7Sf1wDA1fnsNGQJJ5ooCJ9\ndGDtPlYrS2FXNNsfWNqUa0QN0DIV4b6CQ9KiKgfHI1HLPzXI2JYLNT8sYxVafYWT\n2qAwezOExQKBgQDf1WYhO628MU78V5menZTBzpScuHdBcfYBh5lhmvWig3fou3Ex\ni20A4XXA57yeEz+In8Ejhp+cEA1JTguYPy6dt0Spi5YlTSlhEABdlEQOO5mvViKR\nTqZvDl7x7qzXBBNg5tj1orZUJLBvtZhWPj/xl6Kv3tdyoCF2iwCkb+704wKBgQC/\n3q6djszBXN4Ztne3aGunBfOKvzNa9dRHn9HbAp2kxV5D2pt0JFCZCBk4shTcSAHO\nIWVYywUvubzYbZCKsS+iOAIIWGxYm27fLoVib2sfe+re/3WyHDZUqB9wxS+cKKCO\ns84u1sGwfapgokpTP7+YH/27WDV+Ts0JgBTqv0avsQKBgQCd+5Gw/PoporxrOKHy\nY1GD+QRMKP1wxBpquWLqYsll2eaPiblV6V/piDwaOhpOM9KFB4dORpRX8LH+3vNr\nlNoXXXwDBJNUYIjyaUrJ0EzYTCcnVR/8EWQyWpwveJlnjBVBCv3W7bfINfHhouVd\nb5qx8TaUXKjErSvrgcCoZa8V/g==\n-----END PRIVATE KEY-----\n",
+    "client_email": "text-to-speech@mineral-concord-455413-i6.iam.gserviceaccount.com",
+    "client_id": "100129129467604097382",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text-to-speech%40mineral-concord-455413-i6.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
